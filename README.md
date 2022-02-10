@@ -1,16 +1,13 @@
-### Hi there 👋
+## 你好👋
+## Hi there 👋
 
-<!--
-**OVOU4/OVOU4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![OVOU4's github starts](https://github-readme-stats.vercel.app/api?username=OVOU4&theme=great-gatsby)](https://github.com/OVOU4)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OVOU4&langs_count=3&layout=compact&theme=onedark)](https://github.com/OVOU4)  
+- 📫 如何联系我: 
+  * 邮箱：zyangyang2000@outlook.com
+  * 推特：[@WOAINIXIHWOME](https://twitter.com/WOAINIXIHWOME?s=09) (不经常上推特)
+- 📫 How to reach me: 
+  * Twitter: [@WOAINIXIHWOME](https://twitter.com/WOAINIXIHWOME?s=09) (Not often online）
+  * Email: zyangyang2000@outlook.com

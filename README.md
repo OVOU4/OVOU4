@@ -1,5 +1,11 @@
 # 你好👋
 ## Hi there 👋
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:OVOU4"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@guangzhou?v=1" align="right">
+</p>
+<h1 align="center"></h1>
+
 
 [![OVOU4's github starts](https://github-readme-stats.vercel.app/api?username=OVOU4&theme=great-gatsby)](https://github.com/OVOU4)
 
